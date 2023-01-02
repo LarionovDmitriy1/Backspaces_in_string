@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backspaces_in_string", "Backspaces_in_string\Backspaces_in_string.csproj", "{80A2E720-9CB0-4273-8545-541680D8AAB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80A2E720-9CB0-4273-8545-541680D8AAB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80A2E720-9CB0-4273-8545-541680D8AAB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80A2E720-9CB0-4273-8545-541680D8AAB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80A2E720-9CB0-4273-8545-541680D8AAB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD1EF374-1B73-4B34-AADE-B8579AA01DF6}
+	EndGlobalSection
+EndGlobal
